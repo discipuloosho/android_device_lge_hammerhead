@@ -19,3 +19,5 @@ type drm_block_device, dev_type;
 
 # Thermal engine
 type thermal_engine_device, dev_type;
+
+type hid_gadget_device, dev_type;
